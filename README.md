@@ -18,6 +18,11 @@ In the notebook we'll see how to fit our image into an image of the appropriate 
 
 By the way, if you would like to use your own videos, or others that you stole from the web like I did, then first make sure that your object-of-interest is included  in [the list of training labels for ImageNet](http://image-net.org/challenges/LSVRC/2014/browse-synsets).
 
+#### Requirements
+Python 3.x  
+Keras 2.x  
+Scikit-Image  
+Scikit-Video  
 
 
 __[CLICK HERE TO SEE THE NOTEBOOK](./inference.ipynb).__
